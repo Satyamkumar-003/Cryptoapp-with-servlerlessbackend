@@ -1,7 +1,7 @@
 # Crypto Price Ticker
 
 A comprehensive, real-time cryptocurrency price ticker built with React.js and the CoinGecko API. Features beautiful UI, historical data tracking, interactive charts, and detailed statistics for Bitcoin and Ethereum.
-
+Live : https://cryptoanalyserapp.netlify.app/
 ## ✨ Features
 
 ### Core Features
